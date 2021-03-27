@@ -14,7 +14,7 @@
 웹개발 학습 1개월차
 - 처음 만들어 본 홈페이지
 - 부트스트랩이어서 어렵지는 않았음
-- copyright의 현재 연도를 가져오는 javascript code는 재사용하기 좋아보임
+- footer에 copyright의 현재 연도를 가져오는 javascript code는 재사용하기 좋아보임
 
 
 https://josh2kv.github.io/LoopLab-social-theme/
